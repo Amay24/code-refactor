@@ -1,1 +1,1 @@
-# code-refactor
+My objective for this assignment was to refactor this code to meet accessibility standards and to make the code easier to maintain. By helping this code meet accessibility standards it allows for it to be better found on search engines. It is also serves more use for people that access the site.
